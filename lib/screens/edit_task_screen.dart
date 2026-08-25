@@ -119,7 +119,7 @@ class _EditTaskScreenState extends State<EditTaskScreen>{
                 Navigator.pop(context);
               },
 
-              child:const Text("Excluir"),
+              child:const Text("Excluir!!"),
             )
           ],
         ),
