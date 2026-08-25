@@ -8,7 +8,7 @@ Color priorityColor(String p){
       return Colors.red;
 
     case "Média":
-      return Colors.orange;
+      return const Color.fromARGB(255, 80, 172, 134);
 
     default:
       return Colors.green;
